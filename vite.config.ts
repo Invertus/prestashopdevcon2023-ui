@@ -4,7 +4,7 @@ import { defineConfig } from 'vite'
 export default defineConfig({
     build: {
         lib: {
-            fileName: 'index',
+            fileName: 'index.es',
             entry: 'src/index.ts',
             formats: ['es'],
         },
