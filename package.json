@@ -1,7 +1,7 @@
 {
   "name": "invertus-prestashopdevcon2023-sample",
   "description": "Very little sample package of demonstrating web component and storybook usage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "main": "dist/index.es.js",
   "exports": {
